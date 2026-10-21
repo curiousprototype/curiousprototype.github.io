@@ -34,10 +34,38 @@ window.TRIPS = [
   {
     country: "Germany", city: "Hamburg", year: "2026",
     description: "Port city, canals and northern light.",
-    cover: "photos/germany/hamburg/cover.jpg",
+    cover: "photos/germany/hamburg/hamburg_2.jpg",
     photos: [
-      { src: "photos/germany/hamburg/01.jpg", caption: "Hamburg · Photo 1" },
-      { src: "photos/germany/hamburg/02.jpg", caption: "Hamburg · Photo 2" }
+      { src: "photos/germany/hamburg/hamburg_1.jpg", caption: "Hamburg · Photo 1" },
+      { src: "photos/germany/hamburg/hamburg_2.jpg", caption: "Hamburg · Photo 2" },
+      { src: "photos/germany/hamburg/hamburg_3.jpg", caption: "Hamburg · Photo 3" },
+      { src: "photos/germany/hamburg/hamburg_4.jpg", caption: "Hamburg · Photo 4" },
+      { src: "photos/germany/hamburg/hamburg_5.jpg", caption: "Hamburg · Photo 5" },
+      { src: "photos/germany/hamburg/hamburg_6.jpg", caption: "Hamburg · Photo 6" },
+      { src: "photos/germany/hamburg/hamburg_7.jpg", caption: "Hamburg · Photo 7" },
+      { src: "photos/germany/hamburg/hamburg_8.jpg", caption: "Hamburg · Photo 8" },
+      { src: "photos/germany/hamburg/hamburg_9.jpg", caption: "Hamburg · Photo 9" },
+      { src: "photos/germany/hamburg/hamburg_10.jpg", caption: "Hamburg · Photo 10" },
+      { src: "photos/germany/hamburg/hamburg_11.jpg", caption: "Hamburg · Photo 11" },
+      { src: "photos/germany/hamburg/hamburg_12.jpg", caption: "Hamburg · Photo 12" }
+    ]
+  },
+  {
+    country: "Germany", city: "Fussen", year: "2026",
+    description: "Neuschwanstein Castle.",
+    cover: "photos/germany/fussen/fussen_5.jpg",
+    photos: [
+      { src: "photos/germany/fussen/fussen_1.jpg", caption: "Fussen · Photo 1" },
+      { src: "photos/germany/fussen/fussen_2.jpg", caption: "Fussen · Photo 2" },
+      { src: "photos/germany/fussen/fussen_3.jpg", caption: "Fussen · Photo 3" },
+      { src: "photos/germany/fussen/fussen_4.jpg", caption: "Fussen · Photo 4" },
+      { src: "photos/germany/fussen/fussen_5.jpg", caption: "Fussen · Photo 5" },
+      { src: "photos/germany/fussen/fussen_6.jpg", caption: "Fussen · Photo 6" },
+      { src: "photos/germany/fussen/fussen_7.jpg", caption: "Fussen · Photo 7" },
+      { src: "photos/germany/fussen/fussen_8.jpg", caption: "Fussen · Photo 8" },
+      { src: "photos/germany/fussen/fussen_9.jpg", caption: "Fussen · Photo 9" },
+      { src: "photos/germany/fussen/fussen_10.jpg", caption: "Fussen · Photo 10" },
+      { src: "photos/germany/fussen/fussen_11.jpg", caption: "Fussen · Photo 11" }
     ]
   },
   {
@@ -138,6 +166,24 @@ window.TRIPS = [
       { src: "photos/france/lyon/lyon_9.jpg", caption: "Lyon · Photo 9" },
       { src: "photos/france/lyon/lyon_10.jpg", caption: "Lyon · Photo 10" },
       { src: "photos/france/lyon/lyon_11.jpg", caption: "Lyon · Photo 11" }
+    ]
+  },
+  {
+    country: "France", city: "Paris", year: "2025",
+    description: "Memory.",
+    cover: "photos/france/paris/paris_1.jpg",
+    photos: [
+      { src: "photos/france/paris/paris_1.jpg", caption: "Paris · Photo 1" },
+      { src: "photos/france/paris/paris_2.jpg", caption: "Paris · Photo 2" },
+      { src: "photos/france/paris/paris_3.jpg", caption: "Paris · Photo 3" },
+      { src: "photos/france/paris/paris_4.jpg", caption: "Paris · Photo 4" },
+      { src: "photos/france/paris/paris_5.jpg", caption: "Paris · Photo 5" },
+      { src: "photos/france/paris/paris_6.jpg", caption: "Paris · Photo 6" },
+      { src: "photos/france/paris/paris_7.jpg", caption: "Paris · Photo 7" },
+      { src: "photos/france/paris/paris_8.jpg", caption: "Paris · Photo 8" },
+      { src: "photos/france/paris/paris_9.jpg", caption: "Paris · Photo 9" },
+      { src: "photos/france/paris/paris_10.jpg", caption: "Paris · Photo 10" },
+      { src: "photos/france/paris/paris_11.jpg", caption: "Paris · Photo 11" }
     ]
   }
 ];

@@ -47,7 +47,17 @@ window.TRIPS = [
       { src: "photos/germany/hamburg/hamburg_9.jpg", caption: "Hamburg · Photo 9" },
       { src: "photos/germany/hamburg/hamburg_10.jpg", caption: "Hamburg · Photo 10" },
       { src: "photos/germany/hamburg/hamburg_11.jpg", caption: "Hamburg · Photo 11" },
-      { src: "photos/germany/hamburg/hamburg_12.jpg", caption: "Hamburg · Photo 12" }
+      { src: "photos/germany/hamburg/hamburg_12.jpg", caption: "Hamburg · Photo 12" },
+      { src: "photos/germany/hamburg/hamburg_13.jpg", caption: "Hamburg · Photo 13" },
+      { src: "photos/germany/hamburg/hamburg_14.jpg", caption: "Hamburg · Photo 14" },
+      { src: "photos/germany/hamburg/hamburg_15.jpg", caption: "Hamburg · Photo 15" },
+      { src: "photos/germany/hamburg/hamburg_16.jpg", caption: "Hamburg · Photo 16" },
+      { src: "photos/germany/hamburg/hamburg_17.jpg", caption: "Hamburg · Photo 17" },
+      { src: "photos/germany/hamburg/hamburg_18.jpg", caption: "Hamburg · Photo 18" },
+      { src: "photos/germany/hamburg/hamburg_19.jpg", caption: "Hamburg · Photo 19" },
+      { src: "photos/germany/hamburg/hamburg_20.jpg", caption: "Hamburg · Photo 20" },
+      { src: "photos/germany/hamburg/hamburg_21.jpg", caption: "Hamburg · Photo 21" },
+      { src: "photos/germany/hamburg/hamburg_22.jpg", caption: "Hamburg · Photo 22" }
     ]
   },
   {
@@ -184,6 +194,65 @@ window.TRIPS = [
       { src: "photos/france/paris/paris_9.jpg", caption: "Paris · Photo 9" },
       { src: "photos/france/paris/paris_10.jpg", caption: "Paris · Photo 10" },
       { src: "photos/france/paris/paris_11.jpg", caption: "Paris · Photo 11" }
+    ]
+  },
+    {
+    country: "France", city: "Strasbourg", year: "2025",
+    description: "White Album 2",
+    cover: "photos/france/strasburg/strasburg_1.jpg",
+    photos: [
+      { src: "photos/france/strasburg/strasburg_2.jpg", caption: "Strasbourg · Photo 2" },
+      { src: "photos/france/strasburg/strasburg_3.jpg", caption: "Strasbourg · Photo 3" },
+      { src: "photos/france/strasburg/strasburg_4.jpg", caption: "Strasbourg · Photo 4" },
+      { src: "photos/france/strasburg/strasburg_5.jpg", caption: "Strasbourg · Photo 5" },
+      { src: "photos/france/strasburg/strasburg_6.jpg", caption: "Strasbourg · Photo 6" },
+      { src: "photos/france/strasburg/strasburg_7.jpg", caption: "Strasbourg · Photo 7" },
+      { src: "photos/france/strasburg/strasburg_8.jpg", caption: "Strasbourg · Photo 8" },
+      { src: "photos/france/strasburg/strasburg_9.jpg", caption: "Strasbourg · Photo 9" },
+      { src: "photos/france/strasburg/strasburg_10.jpg", caption: "Strasbourg · Photo 10" },
+      { src: "photos/france/strasburg/strasburg_11.jpg", caption: "Strasbourg · Photo 11" },
+      { src: "photos/france/strasburg/strasburg_12.jpg", caption: "Strasbourg · Photo 12" },
+      { src: "photos/france/strasburg/strasburg_13.jpg", caption: "Strasbourg · Photo 13" }
+    ]
+  },
+  {
+    country: "Switzerland", city: "Jungfrau Region", year: "2025",
+    description: "Swiss Alpes.",
+    cover: "photos/switzerland/jungfrau/jungfrau_7.jpg",
+    photos: [
+      { src: "photos/switzerland/jungfrau/jungfrau_1.jpg", caption: "Jungfrau · Photo 1" },
+      { src: "photos/switzerland/jungfrau/jungfrau_2.jpg", caption: "Jungfrau · Photo 2" },
+      { src: "photos/switzerland/jungfrau/jungfrau_3.jpg", caption: "Jungfrau · Photo 3" },
+      { src: "photos/switzerland/jungfrau/jungfrau_4.jpg", caption: "Jungfrau · Photo 4" },
+      { src: "photos/switzerland/jungfrau/jungfrau_5.jpg", caption: "Jungfrau · Photo 5" },
+      { src: "photos/switzerland/jungfrau/jungfrau_6.jpg", caption: "Jungfrau · Photo 6" },
+      { src: "photos/switzerland/jungfrau/jungfrau_7.jpg", caption: "Jungfrau · Photo 7" },
+      { src: "photos/switzerland/jungfrau/jungfrau_8.jpg", caption: "Jungfrau · Photo 8" },
+      { src: "photos/switzerland/jungfrau/jungfrau_9.jpg", caption: "Jungfrau · Photo 9" },
+      { src: "photos/switzerland/jungfrau/jungfrau_10.jpg", caption: "Jungfrau · Photo 10" },
+      { src: "photos/switzerland/jungfrau/jungfrau_11.jpg", caption: "Jungfrau · Photo 11" },
+      { src: "photos/switzerland/jungfrau/jungfrau_12.jpg", caption: "Jungfrau · Photo 12" },
+      { src: "photos/switzerland/jungfrau/jungfrau_13.jpg", caption: "Jungfrau · Photo 13" },
+      { src: "photos/switzerland/jungfrau/jungfrau_14.jpg", caption: "Jungfrau · Photo 14" },
+      { src: "photos/switzerland/jungfrau/jungfrau_15.jpg", caption: "Jungfrau · Photo 15" },
+      { src: "photos/switzerland/jungfrau/jungfrau_16.jpg", caption: "Jungfrau · Photo 16" },
+      { src: "photos/switzerland/jungfrau/jungfrau_17.jpg", caption: "Jungfrau · Photo 17" }
+    ]
+  },
+  {
+    country: "Switzerland", city: "Lucerne", year: "2025",
+    description: "Lucernesee and Rigi.",
+    cover: "photos/switzerland/lucerne/lucerne_1.jpg",
+    photos: [
+      { src: "photos/switzerland/lucerne/lucerne_1.jpg", caption: "Lucerne · Photo 1" },
+      { src: "photos/switzerland/lucerne/lucerne_2.jpg", caption: "Lucerne · Photo 2" },
+      { src: "photos/switzerland/lucerne/lucerne_3.jpg", caption: "Lucerne · Photo 3" },
+      { src: "photos/switzerland/lucerne/lucerne_4.jpg", caption: "Lucerne · Photo 4" },
+      { src: "photos/switzerland/lucerne/lucerne_5.jpg", caption: "Lucerne · Photo 5" },
+      { src: "photos/switzerland/lucerne/lucerne_6.jpg", caption: "Lucerne · Photo 6" },
+      { src: "photos/switzerland/lucerne/lucerne_7.jpg", caption: "Lucerne · Photo 7" },
+      { src: "photos/switzerland/lucerne/lucerne_8.jpg", caption: "Lucerne · Photo 8" },
+      { src: "photos/switzerland/lucerne/lucerne_9.jpg", caption: "Lucerne · Photo 9" }
     ]
   }
 ];

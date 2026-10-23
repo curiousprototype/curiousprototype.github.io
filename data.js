@@ -275,5 +275,63 @@ window.TRIPS = [
       { src: "photos/switzerland/lucerne/lucerne_8.jpg", caption: "Lucerne · Photo 8" },
       { src: "photos/switzerland/lucerne/lucerne_9.jpg", caption: "Lucerne · Photo 9" }
     ]
-  }
+  },
+  {
+    country: "Spain", city: "Barcelona", year: "2025",
+    description: "Barcelona cityscape.",
+    cover: "photos/spain/barcelona/barcelona_1.jpg",
+    photos: [
+      { src: "photos/spain/barcelona/barcelona_1.jpg", caption: "Barcelona · Photo 1" },
+      { src: "photos/spain/barcelona/barcelona_2.jpg", caption: "Barcelona · Photo 2" },
+      { src: "photos/spain/barcelona/barcelona_3.jpg", caption: "Barcelona · Photo 3" },
+      { src: "photos/spain/barcelona/barcelona_4.jpg", caption: "Barcelona · Photo 4" },
+      { src: "photos/spain/barcelona/barcelona_5.jpg", caption: "Barcelona · Photo 5" },
+      { src: "photos/spain/barcelona/barcelona_6.jpg", caption: "Barcelona · Photo 6" },
+      { src: "photos/spain/barcelona/barcelona_7.jpg", caption: "Barcelona · Photo 7" },
+      { src: "photos/spain/barcelona/barcelona_8.jpg", caption: "Barcelona · Photo 8" },
+      { src: "photos/spain/barcelona/barcelona_9.jpg", caption: "Barcelona · Photo 9" },
+      { src: "photos/spain/barcelona/barcelona_10.jpg", caption: "Barcelona · Photo 10" },
+      { src: "photos/spain/barcelona/barcelona_11.jpg", caption: "Barcelona · Photo 11" },
+      { src: "photos/spain/barcelona/barcelona_12.jpg", caption: "Barcelona · Photo 12" }
+    ]
+  },
+  {
+    country: "Spain", city: "Benasque", year: "2025",
+    description: "Pyreness.",
+    cover: "photos/spain/benasque/benasque_2.jpg",
+    photos: [
+      { src: "photos/spain/benasque/benasque_1.jpg", caption: "Benasque · Photo 1" },
+      { src: "photos/spain/benasque/benasque_2.jpg", caption: "Benasque · Photo 2" },
+      { src: "photos/spain/benasque/benasque_3.jpg", caption: "Benasque · Photo 3" },
+      { src: "photos/spain/benasque/benasque_4.jpg", caption: "Benasque · Photo 4" },
+      { src: "photos/spain/benasque/benasque_5.jpg", caption: "Benasque · Photo 5" },
+      { src: "photos/spain/benasque/benasque_6.jpg", caption: "Benasque · Photo 6" },
+      { src: "photos/spain/benasque/benasque_7.jpg", caption: "Benasque · Photo 7" },
+      { src: "photos/spain/benasque/benasque_8.jpg", caption: "Benasque · Photo 8" },
+      { src: "photos/spain/benasque/benasque_9.jpg", caption: "Benasque · Photo 9" },
+      { src: "photos/spain/benasque/benasque_10.jpg", caption: "Benasque · Photo 10" },
+      { src: "photos/spain/benasque/benasque_11.jpg", caption: "Benasque · Photo 11" },
+      { src: "photos/spain/benasque/benasque_12.jpg", caption: "Benasque · Photo 12" }
+    ]
+  },
+  {
+    country: "Cyprus", city: "Paphos", year: "2025",
+    description: "Aphrodite's Rock.",
+    cover: "photos/cyprus/paphos/paphos_1.jpg",
+    photos: [
+      { src: "photos/cyprus/paphos/paphos_1.jpg", caption: "Paphos · Photo 1" },
+      { src: "photos/cyprus/paphos/paphos_2.jpg", caption: "Paphos · Photo 2" },
+      { src: "photos/cyprus/paphos/paphos_3.jpg", caption: "Paphos · Photo 3" },
+      { src: "photos/cyprus/paphos/paphos_4.jpg", caption: "Paphos · Photo 4" },
+      { src: "photos/cyprus/paphos/paphos_5.jpg", caption: "Paphos · Photo 5" },
+      { src: "photos/cyprus/paphos/paphos_6.jpg", caption: "Paphos · Photo 6" },
+      { src: "photos/cyprus/paphos/paphos_7.jpg", caption: "Paphos · Photo 7" },
+      { src: "photos/cyprus/paphos/paphos_8.jpg", caption: "Paphos · Photo 8" },
+      { src: "photos/cyprus/paphos/paphos_9.jpg", caption: "Paphos · Photo 9" },
+      { src: "photos/cyprus/paphos/paphos_10.jpg", caption: "Paphos · Photo 10" },
+      { src: "photos/cyprus/paphos/paphos_11.jpg", caption: "Paphos · Photo 11" },
+      { src: "photos/cyprus/paphos/paphos_12.jpg", caption: "Paphos · Photo 12" },
+      { src: "photos/cyprus/paphos/paphos_13.jpg", caption: "Paphos · Photo 13" }
+    ]
+  },
 ];

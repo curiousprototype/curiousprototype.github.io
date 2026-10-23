@@ -155,9 +155,30 @@ window.TRIPS = [
   {
     country: "Italy", city: "Rome", year: "2025",
     description: "Ancient streets and afternoon light.",
-    cover: "photos/italy/rome/cover.jpg",
+    cover: "photos/italy/rome/rome_1.jpg",
     photos: [
-      { src: "photos/italy/rome/01.jpg", caption: "Rome · Photo 1" }
+      { src: "photos/italy/rome/rome_1.jpg", caption: "Rome · Photo 1" },
+      { src: "photos/italy/rome/rome_2.jpg", caption: "Rome · Photo 2" },
+      { src: "photos/italy/rome/rome_3.jpg", caption: "Rome · Photo 3" },
+      { src: "photos/italy/rome/rome_4.jpg", caption: "Rome · Photo 4" },
+      { src: "photos/italy/rome/rome_5.jpg", caption: "Rome · Photo 5" },
+      { src: "photos/italy/rome/rome_6.jpg", caption: "Rome · Photo 6" },
+      { src: "photos/italy/rome/rome_7.jpg", caption: "Rome · Photo 7" },
+      { src: "photos/italy/rome/rome_8.jpg", caption: "Rome · Photo 8" },
+      { src: "photos/italy/rome/rome_9.jpg", caption: "Rome · Photo 9" },
+      { src: "photos/italy/rome/rome_10.jpg", caption: "Rome · Photo 10" },
+      { src: "photos/italy/rome/rome_11.jpg", caption: "Rome · Photo 11" },
+      { src: "photos/italy/rome/rome_12.jpg", caption: "Rome · Photo 12" },
+      { src: "photos/italy/rome/rome_13.jpg", caption: "Rome · Photo 13" },
+      { src: "photos/italy/rome/rome_14.jpg", caption: "Rome · Photo 14" },
+      { src: "photos/italy/rome/rome_15.jpg", caption: "Rome · Photo 15" },
+      { src: "photos/italy/rome/rome_16.jpg", caption: "Rome · Photo 16" },
+      { src: "photos/italy/rome/rome_17.jpg", caption: "Rome · Photo 17" },
+      { src: "photos/italy/rome/rome_18.jpg", caption: "Rome · Photo 18" },
+      { src: "photos/italy/rome/rome_19.jpg", caption: "Rome · Photo 19" },
+      { src: "photos/italy/rome/rome_20.jpg", caption: "Rome · Photo 20" },
+      { src: "photos/italy/rome/rome_21.jpg", caption: "Rome · Photo 21" },
+      { src: "photos/italy/rome/rome_22.jpg", caption: "Rome · Photo 22" }
     ]
   },
   {

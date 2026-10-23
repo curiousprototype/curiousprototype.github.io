@@ -28,7 +28,14 @@ window.TRIPS = [
       { src: "photos/germany/berlin/berlin_9.jpg", caption: "Berlin · Photo 9" },
       { src: "photos/germany/berlin/berlin_10.jpg", caption: "Berlin · Photo 10" },
       { src: "photos/germany/berlin/berlin_11.jpg", caption: "Berlin · Photo 11" },
-      { src: "photos/germany/berlin/berlin_12.jpg", caption: "Berlin · Photo 12" }
+      { src: "photos/germany/berlin/berlin_12.jpg", caption: "Berlin · Photo 12" },
+      { src: "photos/germany/berlin/berlin_13.jpg", caption: "Berlin · Photo 13" },
+      { src: "photos/germany/berlin/berlin_14.jpg", caption: "Berlin · Photo 14" },
+      { src: "photos/germany/berlin/berlin_15.jpg", caption: "Berlin · Photo 15" },
+      { src: "photos/germany/berlin/berlin_16.jpg", caption: "Berlin · Photo 16" },
+      { src: "photos/germany/berlin/berlin_17.jpg", caption: "Berlin · Photo 17" },
+      { src: "photos/germany/berlin/berlin_18.jpg", caption: "Berlin · Photo 18" },
+      { src: "photos/germany/berlin/berlin_19.jpg", caption: "Berlin · Photo 19" }
     ]
   },
   {
@@ -76,6 +83,57 @@ window.TRIPS = [
       { src: "photos/germany/fussen/fussen_9.jpg", caption: "Fussen · Photo 9" },
       { src: "photos/germany/fussen/fussen_10.jpg", caption: "Fussen · Photo 10" },
       { src: "photos/germany/fussen/fussen_11.jpg", caption: "Fussen · Photo 11" }
+    ]
+  },
+  {
+    country: "Germany", city: "Zugspitze", year: "2024",
+    description: "German Alps.",
+    cover: "photos/germany/zugspitze/zugspitze_1.jpg",
+    photos: [
+      { src: "photos/germany/zugspitze/zugspitze_1.jpg", caption: "Zugspitze · Photo 1" },
+      { src: "photos/germany/zugspitze/zugspitze_2.jpg", caption: "Zugspitze · Photo 2" },
+      { src: "photos/germany/zugspitze/zugspitze_3.jpg", caption: "Zugspitze · Photo 3" },
+      { src: "photos/germany/zugspitze/zugspitze_4.jpg", caption: "Zugspitze · Photo 4" },
+      { src: "photos/germany/zugspitze/zugspitze_5.jpg", caption: "Zugspitze · Photo 5" },
+      { src: "photos/germany/zugspitze/zugspitze_6.jpg", caption: "Zugspitze · Photo 6" },
+      { src: "photos/germany/zugspitze/zugspitze_7.jpg", caption: "Zugspitze · Photo 7" },
+      { src: "photos/germany/zugspitze/zugspitze_8.jpg", caption: "Zugspitze · Photo 8" }
+    ]
+  },
+  {
+    country: "Germany", city: "Munich", year: "2024",
+    description: "Munich cityscape.",
+    cover: "photos/germany/munich/munich_3.jpg",
+    photos: [
+      { src: "photos/germany/munich/munich_1.jpg", caption: "Munich · Photo 1" },
+      { src: "photos/germany/munich/munich_2.jpg", caption: "Munich · Photo 2" },
+      { src: "photos/germany/munich/munich_3.jpg", caption: "Munich · Photo 3" },
+      { src: "photos/germany/munich/munich_4.jpg", caption: "Munich · Photo 4" },
+      { src: "photos/germany/munich/munich_5.jpg", caption: "Munich · Photo 5" },
+      { src: "photos/germany/munich/munich_6.jpg", caption: "Munich · Photo 6" },
+      { src: "photos/germany/munich/munich_7.jpg", caption: "Munich · Photo 7" },
+      { src: "photos/germany/munich/munich_8.jpg", caption: "Munich · Photo 8" },
+      { src: "photos/germany/munich/munich_9.jpg", caption: "Munich · Photo 9" },
+      { src: "photos/germany/munich/munich_10.jpg", caption: "Munich · Photo 10" },
+      { src: "photos/germany/munich/munich_11.jpg", caption: "Munich · Photo 11" },
+      { src: "photos/germany/munich/munich_12.jpg", caption: "Munich · Photo 12" }
+    ]
+  },
+  {
+    country: "Germany", city: "Cologne", year: "2023",
+    description: "Cologne cityscape.",
+    cover: "photos/germany/cologne/cologne_1.jpg",
+    photos: [
+      { src: "photos/germany/cologne/cologne_1.jpg", caption: "Cologne · Photo 1" },
+      { src: "photos/germany/cologne/cologne_2.jpg", caption: "Cologne · Photo 2" },
+      { src: "photos/germany/cologne/cologne_3.jpg", caption: "Cologne · Photo 3" },
+      { src: "photos/germany/cologne/cologne_4.jpg", caption: "Cologne · Photo 4" },
+      { src: "photos/germany/cologne/cologne_5.jpg", caption: "Cologne · Photo 5" },
+      { src: "photos/germany/cologne/cologne_6.jpg", caption: "Cologne · Photo 6" },
+      { src: "photos/germany/cologne/cologne_7.jpg", caption: "Cologne · Photo 7" },
+      { src: "photos/germany/cologne/cologne_8.jpg", caption: "Cologne · Photo 8" },
+      { src: "photos/germany/cologne/cologne_9.jpg", caption: "Cologne · Photo 9" },
+      { src: "photos/germany/cologne/cologne_10.jpg", caption: "Cologne · Photo 10" }
     ]
   },
   {

@@ -375,21 +375,21 @@ window.TRIPS = [
   {
     country: "Cyprus", city: "Paphos", year: "2025",
     description: "Aphrodite's Rock.",
-    cover: "photos/cyprus/paphos/paphos_1.jpg",
+    cover: "photos/cyprus/Paphos/paphos_1.jpg",
     photos: [
-      { src: "photos/cyprus/paphos/paphos_1.jpg", caption: "Paphos · Photo 1" },
-      { src: "photos/cyprus/paphos/paphos_2.jpg", caption: "Paphos · Photo 2" },
-      { src: "photos/cyprus/paphos/paphos_3.jpg", caption: "Paphos · Photo 3" },
-      { src: "photos/cyprus/paphos/paphos_4.jpg", caption: "Paphos · Photo 4" },
-      { src: "photos/cyprus/paphos/paphos_5.jpg", caption: "Paphos · Photo 5" },
-      { src: "photos/cyprus/paphos/paphos_6.jpg", caption: "Paphos · Photo 6" },
-      { src: "photos/cyprus/paphos/paphos_7.jpg", caption: "Paphos · Photo 7" },
-      { src: "photos/cyprus/paphos/paphos_8.jpg", caption: "Paphos · Photo 8" },
-      { src: "photos/cyprus/paphos/paphos_9.jpg", caption: "Paphos · Photo 9" },
-      { src: "photos/cyprus/paphos/paphos_10.jpg", caption: "Paphos · Photo 10" },
-      { src: "photos/cyprus/paphos/paphos_11.jpg", caption: "Paphos · Photo 11" },
-      { src: "photos/cyprus/paphos/paphos_12.jpg", caption: "Paphos · Photo 12" },
-      { src: "photos/cyprus/paphos/paphos_13.jpg", caption: "Paphos · Photo 13" }
+      { src: "photos/cyprus/Paphos/paphos_1.jpg", caption: "Paphos · Photo 1" },
+      { src: "photos/cyprus/Paphos/paphos_2.jpg", caption: "Paphos · Photo 2" },
+      { src: "photos/cyprus/Paphos/paphos_3.jpg", caption: "Paphos · Photo 3" },
+      { src: "photos/cyprus/Paphos/paphos_4.jpg", caption: "Paphos · Photo 4" },
+      { src: "photos/cyprus/Paphos/paphos_5.jpg", caption: "Paphos · Photo 5" },
+      { src: "photos/cyprus/Paphos/paphos_6.jpg", caption: "Paphos · Photo 6" },
+      { src: "photos/cyprus/Paphos/paphos_7.jpg", caption: "Paphos · Photo 7" },
+      { src: "photos/cyprus/Paphos/paphos_8.jpg", caption: "Paphos · Photo 8" },
+      { src: "photos/cyprus/Paphos/paphos_9.jpg", caption: "Paphos · Photo 9" },
+      { src: "photos/cyprus/Paphos/paphos_10.jpg", caption: "Paphos · Photo 10" },
+      { src: "photos/cyprus/Paphos/paphos_11.jpg", caption: "Paphos · Photo 11" },
+      { src: "photos/cyprus/Paphos/paphos_12.jpg", caption: "Paphos · Photo 12" },
+      { src: "photos/cyprus/Paphos/paphos_13.jpg", caption: "Paphos · Photo 13" }
     ]
   }
 ];

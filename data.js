@@ -391,5 +391,5 @@ window.TRIPS = [
       { src: "photos/cyprus/paphos/paphos_12.jpg", caption: "Paphos · Photo 12" },
       { src: "photos/cyprus/paphos/paphos_13.jpg", caption: "Paphos · Photo 13" }
     ]
-  },
+  }
 ];

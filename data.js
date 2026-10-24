@@ -120,6 +120,24 @@ window.TRIPS = [
     ]
   },
   {
+    country: "Germany", city: "Mittenwald", year: "2023",
+    description: "Alps.",
+    cover: "photos/germany/mittenwald/mittenwald_1.jpg",
+    photos: [
+      { src: "photos/germany/mittenwald/mittenwald_1.jpg", caption: "Mittenwald · Photo 1" },
+      { src: "photos/germany/mittenwald/mittenwald_2.jpg", caption: "Mittenwald · Photo 2" },
+      { src: "photos/germany/mittenwald/mittenwald_3.jpg", caption: "Mittenwald · Photo 3" },
+      { src: "photos/germany/mittenwald/mittenwald_4.jpg", caption: "Mittenwald · Photo 4" },
+      { src: "photos/germany/mittenwald/mittenwald_5.jpg", caption: "Mittenwald · Photo 5" },
+      { src: "photos/germany/mittenwald/mittenwald_6.jpg", caption: "Mittenwald · Photo 6" },
+      { src: "photos/germany/mittenwald/mittenwald_7.jpg", caption: "Mittenwald · Photo 7" },
+      { src: "photos/germany/mittenwald/mittenwald_8.jpg", caption: "Mittenwald · Photo 8" },
+      { src: "photos/germany/mittenwald/mittenwald_9.jpg", caption: "Mittenwald · Photo 9" },
+      { src: "photos/germany/mittenwald/mittenwald_10.jpg", caption: "Mittenwald · Photo 10" },
+      { src: "photos/germany/mittenwald/mittenwald_11.jpg", caption: "Mittenwald · Photo 11" }
+    ]
+  },
+  {
     country: "Germany", city: "Cologne", year: "2023",
     description: "Cologne cityscape.",
     cover: "photos/germany/cologne/cologne_1.jpg",
@@ -134,6 +152,52 @@ window.TRIPS = [
       { src: "photos/germany/cologne/cologne_8.jpg", caption: "Cologne · Photo 8" },
       { src: "photos/germany/cologne/cologne_9.jpg", caption: "Cologne · Photo 9" },
       { src: "photos/germany/cologne/cologne_10.jpg", caption: "Cologne · Photo 10" }
+    ]
+  },
+  {
+    country: "Germany", city: "Nordlingen", year: "2026",
+    description: "Attack on Titan.",
+    cover: "photos/germany/nordlingen/nordlingen_4.jpg",
+    photos: [
+      { src: "photos/germany/nordlingen/nordlingen_1.jpg", caption: "Nordlingen · Photo 1" },
+      { src: "photos/germany/nordlingen/nordlingen_2.jpg", caption: "Nordlingen · Photo 2" },
+      { src: "photos/germany/nordlingen/nordlingen_3.jpg", caption: "Nordlingen · Photo 3" },
+      { src: "photos/germany/nordlingen/nordlingen_4.jpg", caption: "Nordlingen · Photo 4" },
+      { src: "photos/germany/nordlingen/nordlingen_5.jpg", caption: "Nordlingen · Photo 5" },
+      { src: "photos/germany/nordlingen/nordlingen_6.jpg", caption: "Nordlingen · Photo 6" },
+      { src: "photos/germany/nordlingen/nordlingen_7.jpg", caption: "Nordlingen · Photo 7" },
+      { src: "photos/germany/nordlingen/nordlingen_8.jpg", caption: "Nordlingen · Photo 8" }
+    ]
+  },
+  {
+    country: "Germany", city: "Dresden", year: "2026",
+    description: "Dresden cityscape.",
+    cover: "photos/germany/dresden/dresden_4.jpg",
+    photos: [
+      { src: "photos/germany/dresden/dresden_1.jpg", caption: "Dresden · Photo 1" },
+      { src: "photos/germany/dresden/dresden_2.jpg", caption: "Dresden · Photo 2" },
+      { src: "photos/germany/dresden/dresden_3.jpg", caption: "Dresden · Photo 3" },
+      { src: "photos/germany/dresden/dresden_4.jpg", caption: "Dresden · Photo 4" },
+      { src: "photos/germany/dresden/dresden_5.jpg", caption: "Dresden · Photo 5" },
+      { src: "photos/germany/dresden/dresden_6.jpg", caption: "Dresden · Photo 6" },
+      { src: "photos/germany/dresden/dresden_7.jpg", caption: "Dresden · Photo 7" },
+      { src: "photos/germany/dresden/dresden_8.jpg", caption: "Dresden · Photo 8" },
+      { src: "photos/germany/dresden/dresden_9.jpg", caption: "Dresden · Photo 9" }
+    ]
+  },
+  {
+    country: "Germany", city: "Luebeck", year: "2026",
+    description: "Old town of Luebeck.",
+    cover: "photos/germany/luebeck/luebeck_2.jpg",
+    photos: [
+      { src: "photos/germany/luebeck/luebeck_1.jpg", caption: "Luebeck · Photo 1" },
+      { src: "photos/germany/luebeck/luebeck_2.jpg", caption: "Luebeck · Photo 2" },
+      { src: "photos/germany/luebeck/luebeck_3.jpg", caption: "Luebeck · Photo 3" },
+      { src: "photos/germany/luebeck/luebeck_4.jpg", caption: "Luebeck · Photo 4" },
+      { src: "photos/germany/luebeck/luebeck_5.jpg", caption: "Luebeck · Photo 5" },
+      { src: "photos/germany/luebeck/luebeck_6.jpg", caption: "Luebeck · Photo 6" },
+      { src: "photos/germany/luebeck/luebeck_7.jpg", caption: "Luebeck · Photo 7" },
+      { src: "photos/germany/luebeck/luebeck_8.jpg", caption: "Luebeck · Photo 8" }
     ]
   },
   {
@@ -390,6 +454,22 @@ window.TRIPS = [
       { src: "photos/cyprus/Paphos/paphos_11.jpg", caption: "Paphos · Photo 11" },
       { src: "photos/cyprus/Paphos/paphos_12.jpg", caption: "Paphos · Photo 12" },
       { src: "photos/cyprus/Paphos/paphos_13.jpg", caption: "Paphos · Photo 13" }
+    ]
+  },
+  {
+    country: "Denmark", city: "Copenhagen", year: "2024",
+    description: "The Little Mermaid.",
+    cover: "photos/denmark/Copenhagen/copenhagen_2.jpg",
+    photos: [
+      { src: "photos/denmark/Copenhagen/copenhagen_1.jpg", caption: "Copenhagen · Photo 1" },
+      { src: "photos/denmark/Copenhagen/copenhagen_2.jpg", caption: "Copenhagen · Photo 2" },
+      { src: "photos/denmark/Copenhagen/copenhagen_3.jpg", caption: "Copenhagen · Photo 3" },
+      { src: "photos/denmark/Copenhagen/copenhagen_4.jpg", caption: "Copenhagen · Photo 4" },
+      { src: "photos/denmark/Copenhagen/copenhagen_5.jpg", caption: "Copenhagen · Photo 5" },
+      { src: "photos/denmark/Copenhagen/copenhagen_6.jpg", caption: "Copenhagen · Photo 6" },
+      { src: "photos/denmark/Copenhagen/copenhagen_7.jpg", caption: "Copenhagen · Photo 7" },
+      { src: "photos/denmark/Copenhagen/copenhagen_8.jpg", caption: "Copenhagen · Photo 8" },
+      { src: "photos/denmark/Copenhagen/copenhagen_9.jpg", caption: "Copenhagen · Photo 9" }
     ]
   }
 ];

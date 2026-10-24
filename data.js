@@ -459,34 +459,34 @@ window.TRIPS = [
   {
     country: "Denmark", city: "Copenhagen", year: "2024",
     description: "The Little Mermaid.",
-    cover: "photos/denmark/Copenhagen/copenhagen_2.jpg",
+    cover: "photos/denmark/copenhagen/copenhagen_2.jpg",
     photos: [
-      { src: "photos/denmark/Copenhagen/copenhagen_1.jpg", caption: "Copenhagen · Photo 1" },
-      { src: "photos/denmark/Copenhagen/copenhagen_2.jpg", caption: "Copenhagen · Photo 2" },
-      { src: "photos/denmark/Copenhagen/copenhagen_3.jpg", caption: "Copenhagen · Photo 3" },
-      { src: "photos/denmark/Copenhagen/copenhagen_4.jpg", caption: "Copenhagen · Photo 4" },
-      { src: "photos/denmark/Copenhagen/copenhagen_5.jpg", caption: "Copenhagen · Photo 5" },
-      { src: "photos/denmark/Copenhagen/copenhagen_6.jpg", caption: "Copenhagen · Photo 6" },
-      { src: "photos/denmark/Copenhagen/copenhagen_7.jpg", caption: "Copenhagen · Photo 7" },
-      { src: "photos/denmark/Copenhagen/copenhagen_8.jpg", caption: "Copenhagen · Photo 8" },
-      { src: "photos/denmark/Copenhagen/copenhagen_9.jpg", caption: "Copenhagen · Photo 9" }
+      { src: "photos/denmark/copenhagen/copenhagen_1.jpg", caption: "Copenhagen · Photo 1" },
+      { src: "photos/denmark/copenhagen/copenhagen_2.jpg", caption: "Copenhagen · Photo 2" },
+      { src: "photos/denmark/copenhagen/copenhagen_3.jpg", caption: "Copenhagen · Photo 3" },
+      { src: "photos/denmark/copenhagen/copenhagen_4.jpg", caption: "Copenhagen · Photo 4" },
+      { src: "photos/denmark/copenhagen/copenhagen_5.jpg", caption: "Copenhagen · Photo 5" },
+      { src: "photos/denmark/copenhagen/copenhagen_6.jpg", caption: "Copenhagen · Photo 6" },
+      { src: "photos/denmark/copenhagen/copenhagen_7.jpg", caption: "Copenhagen · Photo 7" },
+      { src: "photos/denmark/copenhagen/copenhagen_8.jpg", caption: "Copenhagen · Photo 8" },
+      { src: "photos/denmark/copenhagen/copenhagen_9.jpg", caption: "Copenhagen · Photo 9" }
     ]
   },
   {
     country: "Netherlands", city: "Amsterdam", year: "2023",
     description: "Amsterdam cityscape.",
-    cover: "photos/netherlands/Amsterdam/amsterdam_1.jpg",
+    cover: "photos/netherlands/amsterdam/amsterdam_1.jpg",
     photos: [
-      { src: "photos/netherlands/Amsterdam/amsterdam_1.jpg", caption: "Amsterdam · Photo 1" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_2.jpg", caption: "Amsterdam · Photo 2" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_3.jpg", caption: "Amsterdam · Photo 3" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_4.jpg", caption: "Amsterdam · Photo 4" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_5.jpg", caption: "Amsterdam · Photo 5" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_6.jpg", caption: "Amsterdam · Photo 6" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_7.jpg", caption: "Amsterdam · Photo 7" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_8.jpg", caption: "Amsterdam · Photo 8" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_9.jpg", caption: "Amsterdam · Photo 9" },
-      { src: "photos/netherlands/Amsterdam/amsterdam_10.jpg", caption: "Amsterdam · Photo 10" }
+      { src: "photos/netherlands/amsterdam/amsterdam_1.jpg", caption: "Amsterdam · Photo 1" },
+      { src: "photos/netherlands/amsterdam/amsterdam_2.jpg", caption: "Amsterdam · Photo 2" },
+      { src: "photos/netherlands/amsterdam/amsterdam_3.jpg", caption: "Amsterdam · Photo 3" },
+      { src: "photos/netherlands/amsterdam/amsterdam_4.jpg", caption: "Amsterdam · Photo 4" },
+      { src: "photos/netherlands/amsterdam/amsterdam_5.jpg", caption: "Amsterdam · Photo 5" },
+      { src: "photos/netherlands/amsterdam/amsterdam_6.jpg", caption: "Amsterdam · Photo 6" },
+      { src: "photos/netherlands/amsterdam/amsterdam_7.jpg", caption: "Amsterdam · Photo 7" },
+      { src: "photos/netherlands/amsterdam/amsterdam_8.jpg", caption: "Amsterdam · Photo 8" },
+      { src: "photos/netherlands/amsterdam/amsterdam_9.jpg", caption: "Amsterdam · Photo 9" },
+      { src: "photos/netherlands/amsterdam/amsterdam_10.jpg", caption: "Amsterdam · Photo 10" }
     ]
   }
 ];
